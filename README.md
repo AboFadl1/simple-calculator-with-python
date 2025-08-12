@@ -11,6 +11,8 @@ A basic Python console calculator that can perform:
 - Show History
 
 ## How to Run
-1. Make sure you have Python 3 installed.
-2. Open the terminal in this folder.
-3. Run:
+1. Go to the Simple Calculator folder
+2. -> Simple Calculator
+3. -> Simple_Calculator.py
+4. Copy the python code 
+5. Run the code on your compiler:
